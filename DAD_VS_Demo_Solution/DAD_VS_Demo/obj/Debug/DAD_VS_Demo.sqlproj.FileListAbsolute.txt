@@ -1,0 +1,6 @@
+C:\Users\Syed Asim Razvi\Desktop\DB_Project_Demo\DAD_VS_Demo_Solution\DAD_VS_Demo\bin\Debug\DAD_VS_Demo.dacpac
+C:\Users\Syed Asim Razvi\Desktop\DB_Project_Demo\DAD_VS_Demo_Solution\DAD_VS_Demo\obj\Debug\DAD_VS_Demo.sqlprojAssemblyReference.cache
+C:\Users\Syed Asim Razvi\Desktop\DB_Project_Demo\DAD_VS_Demo_Solution\DAD_VS_Demo\obj\Debug\DAD_VS_Demo.dll
+C:\Users\Syed Asim Razvi\Desktop\DB_Project_Demo\DAD_VS_Demo_Solution\DAD_VS_Demo\obj\Debug\DAD_VS_Demo.pdb
+C:\Users\Syed Asim Razvi\Desktop\DB_Project_Demo\DAD_VS_Demo_Solution\DAD_VS_Demo\bin\Debug\DAD_VS_Demo.dll
+C:\Users\Syed Asim Razvi\Desktop\DB_Project_Demo\DAD_VS_Demo_Solution\DAD_VS_Demo\bin\Debug\DAD_VS_Demo.pdb
